@@ -43,6 +43,10 @@ setInterval(() => {
     "2025-12-25", // Christmas Day
     "2025-12-30", // Rizal Day
     "2025-12-31", // New Year's Eve
+    "2026-04-02", 
+    "2026-04-03", 
+    "2026-04-04", 
+    "2026-04-05", 
   ]
 
   function isHolidayNow() {
